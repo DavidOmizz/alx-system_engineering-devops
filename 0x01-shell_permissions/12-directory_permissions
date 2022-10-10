@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x */
+whmod -m 751 my_dir
